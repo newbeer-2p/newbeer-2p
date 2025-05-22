@@ -1,5 +1,7 @@
 ## Hi there 👋
+![Newbeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbeer-2p&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbeer-2p&layout=compact)
 <!--
 **newbeer-2p/newbeer-2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
